@@ -7,7 +7,7 @@ The recipe items are displayed in cards. Each card consists of an image of the r
 
 ## Demo
 
-Click the images above or watch the demo video on [YouTube]().
+Click the images above or watch the demo video on [YouTube](https://youtu.be/R9D5XZF07qE).
 
 
 ## Tech Stack
